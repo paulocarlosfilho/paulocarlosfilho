@@ -15,7 +15,9 @@
 ## AWS
 
 ### Done ❤
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="07068c21-2334-49e5-acaa-07ce9994b9c3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="logo/aws/confirm/aws-certified-cloud-practitioner.png"></script>
+<div align="center">
+  <img height="200" src="/logo/aws/confirm/aws-certified-cloud-practitioner.png"  />
+</div>
 
 
 
