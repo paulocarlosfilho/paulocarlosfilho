@@ -1,20 +1,21 @@
 ## Hello, World!!!! 👋
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu nome é Paulo Carlos e eu sou do Brasil, mais espicificamente Pernambuco.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim:</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 Estudando AWS ❤<br>🎯 Projeto: AWS Certified Developer - Associate<br>🎲 Ocupacão: Joguinhos, viajar e Muai Thai ❤ </p>
 
 ###
 
 ## AWS ❤
 
 ### Done
+
 
 
 <!--
