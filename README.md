@@ -24,7 +24,7 @@
 
 ### A consquistar
 
-  <img height="200" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"  />
+  <img height="180" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"  />
 
 
 ###
