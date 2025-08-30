@@ -14,11 +14,18 @@
 
 ## AWS
 
-### Done ❤
+### Adquirido 
 <div align="center">
   <img height="200" src="/logo/aws/confirm/aws-re-start-graduate.png"  />
   <img height="200" src="/logo/aws/confirm/aws-certified-cloud-practitioner.png"  />
 </div>
+
+### A consquistar
+<div align="center">
+  <img height="200" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"  />
+</div>
+
+
 
 
 
