@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estudando AWS <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  /><br>🎯 Projeto: AWS Certified Developer - Associate<br>🎲 Ocupacão: Joguinhos, viajar e Muai Thai  </p>
+<p align="left">📚 Estudando AWS <img src="https://skillicons.dev/icons?i=aws" height="10" alt="amazonwebservices logo"  /><br>🎯 Projeto: AWS Certified Developer - Associate<br>🎲 Ocupacão: Joguinhos, viajar e Muai Thai  </p>
 
 ###
 
