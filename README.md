@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">📚 Estudando AWS ❤<br>🎯 Projeto: AWS Certified Developer - Associate<br>🎲 Ocupacão: Joguinhos, viajar e Muai Thai ❤ </p>
+<p align="left">📚 Estudando AWS<br>🎯 Projeto: AWS Certified Developer - Associate<br>🎲 Ocupacão: Joguinhos, viajar e Muai Thai  </p>
 
 ###
 
