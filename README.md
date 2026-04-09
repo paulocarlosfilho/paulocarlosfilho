@@ -17,7 +17,6 @@
 ## AWS
 
 ### Adquirido 
-![AWS Certified](https://img.shields.io/badge/AWS-Certified--Cloud--Practitioner-orange?logo=amazon-aws&style=for-the-badge)
 <div align="left">
   <img height="200" src="/logo/aws/confirm/aws-re-start-graduate.png"  />
   <img height="200" src="/logo/aws/confirm/aws-certified-cloud-practitioner.png"  />
