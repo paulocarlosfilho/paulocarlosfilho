@@ -29,17 +29,17 @@
 
 ### Habilidades
 
-  <div className="flex flex-wrap justify-center gap-2 mb-8 px-4">
-    <SkillBadge icon="fa-react" label="React" color="text-cyan-400" />
-    <SkillBadge icon="fa-js" label="TypeScript" color="text-blue-500" />
-    <SkillBadge icon="fa-css3-alt" label="Tailwind CSS" color="text-teal-400" />
-    <SkillBadge icon="fa-docker" label="Docker" color="text-blue-400" />
-    <SkillBadge icon="fa-java" label="Java" color="text-red-500" />
-    <SkillBadge icon="fa-aws" label="AWS" color="text-orange-400" />
-    <SkillBadge icon="fa-python" label="Python" color="text-yellow-400" />
-    <SkillBadge icon="fa-server" label="Django" color="text-green-600" />
-    <SkillBadge icon="fa-mobile-screen-button" label="React Native" color="text-purple-400" />
-   </div>
+  ### 🛠️ Habilidades
+<div align="left">
+  <img src="https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
+</div>
 
 
 
