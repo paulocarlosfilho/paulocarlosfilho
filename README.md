@@ -28,8 +28,7 @@
 
 
 ### Habilidades
-
-  ### 🛠️ Habilidades
+  
 <div align="left">
   <img src="https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -41,7 +40,9 @@
   <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
 </div>
 
+### Site
 
+![Paulo Carlos]([https://img.shields.io/badge/AWS-Certified--Cloud--Practitioner-orange?logo=amazon-aws&style=for-the-badge](https://curriculo-dev-ops-paulo-carlos.netlify.app/))
 
 
 
