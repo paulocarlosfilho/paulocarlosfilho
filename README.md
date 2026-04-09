@@ -40,9 +40,8 @@
   <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
 </div>
 
-### Site
-
-![Paulo Carlos](https://curriculo-dev-ops-paulo-carlos.netlify.app/)
+### 🌐 Site
+[Acesse meu Portfólio](https://curriculo-dev-ops-paulo-carlos.netlify.app/)
 
 
 
