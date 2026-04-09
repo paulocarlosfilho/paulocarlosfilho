@@ -42,7 +42,7 @@
 
 ### Site
 
-[Paulo Carlos]([https://img.shields.io/badge/AWS-Certified--Cloud--Practitioner-orange?logo=amazon-aws&style=for-the-badge](https://curriculo-dev-ops-paulo-carlos.netlify.app/))
+![Paulo Carlos]([https://img.shields.io/badge/AWS-Certified--Cloud--Practitioner-orange?logo=amazon-aws&style=for-the-badge](https://curriculo-dev-ops-paulo-carlos.netlify.app/))
 
 
 
