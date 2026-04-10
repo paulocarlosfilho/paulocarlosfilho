@@ -1,33 +1,33 @@
 ## Hello, World!!!! 👋
 
-<p align="left">Meu nome é Paulo Carlos e eu sou do Brasil, mais espicificamente Pernambuco.</p>
+<p align="left">My name is Paulo Carlos and I am from Brazil, specifically from Pernambuco.</p>
 
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>](https://www.linkedin.com/in/paulocarlosfilho)
 
 ###
 
-<h2 align="left">Sobre mim:</h2>
+<h2 align="left">About me:</h2>
 
 ###
 
-<p align="left">📚 Estudando AWS <br>🎯 Projeto: AWS Certified Developer - Associate<br>🎲 Ocupacão: Joguinhos, viajar e Muai Thai  </p>
+<p align="left">📚 Studying AWS <br>🎯 Project: AWS Certified Developer - Associate<br>🎲 Ocupation: Games, Travel and Muai Thai  </p>
 
 ###
 
 ## AWS
 
-### Adquirido 
+### Earned
 <div align="left">
   <img height="200" src="/logo/aws/confirm/aws-re-start-graduate.png"  />
   <img height="200" src="/logo/aws/confirm/aws-certified-cloud-practitioner.png"  />
 </div>
 
-### A consquistar
+### Achived
 
   <img height="180" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"  />
 
 
-### Habilidades
+### Technical Skills
   
 <div align="left">
   <img src="https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -40,8 +40,8 @@
   <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
 </div>
 
-### 🌐 Site
-[Acesse meu Portfólio](https://curriculo-dev-ops-paulo-carlos.netlify.app/)
+### 🌐 Website
+[Check out my Portfolio](https://curriculo-dev-ops-paulo-carlos.netlify.app/)
 
 
 
